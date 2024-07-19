@@ -12,7 +12,6 @@ deleted pdf for
 we are updating branch dip
 for new version4.1
 
-reset command
 also adding few lines
 for reset
 
