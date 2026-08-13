@@ -1,1 +1,4 @@
 This is the bronze file edited by feature_3 branch.
+
+
+added new contributor.
